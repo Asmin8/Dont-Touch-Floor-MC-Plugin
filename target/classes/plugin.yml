@@ -1,0 +1,9 @@
+name: MyPlugin1
+version: '26.1.2'
+
+main: com.asmin.myPlugin1.MyPlugin1
+paperPluginLoader: com.asmin.myPlugin1.MyPlugin1Loader
+api-version: '1.21'
+load: POSTWORLD
+author: Asmin
+description: Players die when touching naturally generated blocks.
